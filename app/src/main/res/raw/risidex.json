@@ -1,0 +1,436 @@
+[
+    {
+        "id": 1,
+        "name": "Bulbizarre",
+        "image": "http://image.noelshack.com/fichiers/2016/43/1477841056-001.png",
+        "types": [
+            {
+                "name": "plante",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/plante.png"
+            },
+            {
+                "name": "poison",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/poison.png"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Herbizarre",
+        "image": "http://image.noelshack.com/fichiers/2016/43/1477841063-002.png",
+        "types": [
+            {
+                "name": "plante",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/plante.png"
+            },
+            {
+                "name": "poison",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/poison.png"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Florizare",
+        "image": "http://image.noelshack.com/fichiers/2016/43/1477848757-1471093351-3b.png",
+        "types": [
+            {
+                "name": "plante",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/plante.png"
+            },
+            {
+                "name": "poison",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/poison.png"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Salamèche",
+        "image": "http://image.noelshack.com/fichiers/2016/43/1477841080-004.png",
+        "types": [
+            {
+                "name": "feu",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/feu.png"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Reptincel",
+        "image": "http://image.noelshack.com/minis/2016/43/1477858807-reptincel-risitas-ratio.png",
+        "types": [
+            {
+                "name": "feu",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/feu.png"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Dracaufeu",
+        "image": "http://image.noelshack.com/minis/2016/43/1477858802-dracaufeu-ratio.png",
+        "types": [
+            {
+                "name": "feu",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/feu.png"
+            },
+            {
+                "name": "vol",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/vol.png"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Carapuce",
+        "image": "http://image.noelshack.com/fichiers/2016/43/1477841153-risitas-62.png",
+        "types": [
+            {
+                "name": "eau",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/eau.png"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Carabaffe",
+        "image": "http://image.noelshack.com/minis/2016/43/1477858797-carabaffe-ratio.png",
+        "types": [
+            {
+                "name": "eau",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/eau.png"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Tortank",
+        "image": "http://image.noelshack.com/fichiers/2016/44/1477912430-1476038578-picsart-10-09-08-12-24.jpg",
+        "types": [
+            {
+                "name": "eau",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/eau.png"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Chenipan",
+        "image": "http://image.noelshack.com/minis/2016/43/1477854722-chenipan.png",
+        "types": [
+            {
+                "name": "insecte",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/insecte.png"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Chrysacier",
+        "image": "http://image.noelshack.com/fichiers/2016/44/1478437151-risitas-chrysacier.png",
+        "types": [
+            {
+                "name": "insecte",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/insecte.png"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Papilusion",
+        "image": "http://image.noelshack.com/fichiers/2016/43/1477848194-risitas-30.png",
+        "types": [
+            {
+                "name": "insecte",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/insecte.png"
+            },
+            {
+                "name": "vol",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/vol.png"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Aspicot",
+        "image": "http://image.noelshack.com/minis/2016/43/1477854729-aspicot.png",
+        "types": [
+            {
+                "name": "insecte",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/insecte.png"
+            },
+            {
+                "name": "poison",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/poison.png"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Coconfort",
+        "image": "http://image.noelshack.com/fichiers/2016/43/1477853985-coconfort.png",
+        "types": [
+            {
+                "name": "insecte",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/insecte.png"
+            },
+            {
+                "name": "poison",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/poison.png"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Dardargnan",
+        "image": "http://image.noelshack.com/fichiers/2016/44/1477908743-dardagnan-risitas.png",
+        "types": [
+            {
+                "name": "insecte",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/insecte.png"
+            },
+            {
+                "name": "poison",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/poison.png"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Roucool",
+        "image": "http://image.noelshack.com/fichiers/2016/45/1478790736-risitas-roucool.png",
+        "types": [
+            {
+                "name": "normal",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/normal.png"
+            },
+            {
+                "name": "vol",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/vol.png"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Roucoups",
+        "image": "http://image.noelshack.com/fichiers/2016/45/1478812007-risitas-roucoups.png",
+        "types": [
+            {
+                "name": "normal",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/normal.png"
+            },
+            {
+                "name": "vol",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/vol.png"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Roucarnage",
+        "image": "http://image.noelshack.com/fichiers/2016/45/1478860719-1478860260-roucarnage.png",
+        "types": [
+            {
+                "name": "normal",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/normal.png"
+            },
+            {
+                "name": "vol",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/vol.png"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Rattata",
+        "image": "http://image.noelshack.com/fichiers/2016/44/1478298236-1478118308-risitas-rattata.png",
+        "types": [
+            {
+                "name": "normal",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/normal.png"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Rattatac",
+        "image": "http://image.noelshack.com/fichiers/2016/44/1478461558-risitas-rattatac.png",
+        "types": [
+            {
+                "name": "normal",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/normal.png"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Piafabec",
+        "image": "http://image.noelshack.com/fichiers/2016/43/1477848207-1477844694-piafabec.png",
+        "types": [
+            {
+                "name": "normal",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/normal.png"
+            },
+            {
+                "name": "vol",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/vol.png"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Rapasdepic",
+        "image": "http://image.noelshack.com/fichiers/2016/44/1477909365-rapasdepic-risitas.png",
+        "types": [
+            {
+                "name": "normal",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/normal.png"
+            },
+            {
+                "name": "vol",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/vol.png"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Abo",
+        "image": "http://image.noelshack.com/fichiers/2016/44/1477994768-abo-risitas.png",
+        "types": [
+            {
+                "name": "poison",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/poison.png"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Arbok",
+        "image": "http://image.noelshack.com/minis/2016/43/1477856431-arbox-risitas.png",
+        "types": [
+            {
+                "name": "poison",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/poison.png"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "image": "http://image.noelshack.com/fichiers/2016/43/1477848216-risitas-61.png",
+        "types": [
+            {
+                "name": "electrik",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/electrik.png"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Raichu",
+        "image": "http://image.noelshack.com/fichiers/2016/45/1478516583-1478206625-3c2953111a95e4f41b1d590878e02e66v2.png",
+        "types": [
+            {
+                "name": "electrik",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/electrik.png"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Sabelette",
+        "image": "http://image.noelshack.com/minis/2016/43/1477853433-sabelette.png",
+        "types": [
+            {
+                "name": "sol",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/sol.png"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Sablaireau",
+        "image": "http://image.noelshack.com/fichiers/2016/43/1477848225-1477844631-sablaireau.png",
+        "types": [
+            {
+                "name": "sol",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/sol.png"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Nidoran",
+        "image": "http://image.noelshack.com/fichiers/2016/44/1478449589-nidoranfemelle2.png",
+        "types": [
+            {
+                "name": "poison",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/poison.png"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Nidorina",
+        "image": "http://image.noelshack.com/fichiers/2016/44/1478437845-nidorina.png",
+        "types": [
+            {
+                "name": "poison",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/poison.png"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Nidoqueen",
+        "image": "http://image.noelshack.com/fichiers/2016/44/1478440328-nidorina.png",
+        "types": [
+            {
+                "name": "poison",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/poison.png"
+            },
+            {
+                "name": "sol",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/sol.png"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Nidoran",
+        "image": "http://image.noelshack.com/fichiers/2016/44/1478448590-nidoranmale.png",
+        "types": [
+            {
+                "name": "poison",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/poison.png"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Nidorino",
+        "image": "http://image.noelshack.com/fichiers/2016/44/1478448598-nidorino.png",
+        "types": [
+            {
+                "name": "poison",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/poison.png"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Nidoking",
+        "image": "http://image.noelshack.com/fichiers/2016/44/1478018620-250px-nidoking-rfvf.png",
+        "types": [
+            {
+                "name": "poison",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/poison.png"
+            },
+            {
+                "name": "sol",
+                "image": "https://www.pokebip.com/pages/icones/types/3G/sol.png"
+            }
+        ]
+    }
+]
