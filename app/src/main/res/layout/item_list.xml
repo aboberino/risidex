@@ -13,7 +13,8 @@
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:background="@color/colorCard">
 
         <TextView
             android:id="@+id/primary_text"
@@ -33,8 +34,7 @@
             android:layout_width="160dp"
             android:layout_height="160dp"
             app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:srcCompat="@android:color/darker_gray" />
+            app:layout_constraintStart_toStartOf="parent" />
 
 
         <ImageView
@@ -46,8 +46,7 @@
             android:layout_marginTop="16dp"
             android:background="#00E71C1C"
             app:layout_constraintStart_toStartOf="@+id/pokemon_image"
-            app:layout_constraintTop_toBottomOf="@+id/primary_text"
-            tools:srcCompat="@tools:sample/cities" />
+            app:layout_constraintTop_toBottomOf="@+id/primary_text" />
 
         <ImageView
             android:id="@+id/type2_image"
